@@ -1,0 +1,10 @@
+/*	Styles for BAW2018 jQuery demo */
+
+body {
+	background-color: LightBlue;
+}
+
+img {
+	background-color: blue;
+	padding: 1em;
+}
